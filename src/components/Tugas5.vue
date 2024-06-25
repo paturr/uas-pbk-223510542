@@ -1,0 +1,20 @@
+<template>
+  <div class="layar">
+    <iframe src="https://tugas5-pbk-223510542-fathur.vercel.app/" frameborder="0" width="100%" height="100%"></iframe>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'Task4'
+};
+</script>
+
+<style scoped>
+.layar {
+position: fixed;
+width: 100vw;
+height: 100vh;
+overflow: hidden;
+}
+</style>
